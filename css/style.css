@@ -186,6 +186,12 @@ header nav li:hover a{
     line-height: 26px;
     color: #21243D;
     padding-bottom: 11px;
+    display: flex;
+    align-items: center;
+}
+.resent_posts article span{
+    display: flex;
+    align-items: center;
 }
 .resent_posts article span:after{
     content: "";
