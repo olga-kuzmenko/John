@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IY978gSNi1YlkVhOEqtpk2dftx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/olgakuzmenko/Documents/Hillel/John",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="" />
+      <created>1670347479210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670347479210</updated>
+      <workItem from="1670347480366" duration="7051000" />
+      <workItem from="1670355518941" duration="1134000" />
+      <workItem from="1670433780237" duration="65000" />
+      <workItem from="1670434109329" duration="11716000" />
+      <workItem from="1670503878515" duration="212000" />
+      <workItem from="1670605962025" duration="5931000" />
+      <workItem from="1670692597724" duration="12265000" />
+      <workItem from="1671038273401" duration="6344000" />
+      <workItem from="1671190255988" duration="5230000" />
+      <workItem from="1671198476744" duration="1356000" />
+      <workItem from="1671267462667" duration="6892000" />
+      <workItem from="1671455617569" duration="342000" />
+      <workItem from="1671455963302" duration="59000" />
+      <workItem from="1671456023117" duration="8029000" />
+      <workItem from="1671475869828" duration="6976000" />
+      <workItem from="1671556070409" duration="2213000" />
+      <workItem from="1671646488146" duration="53000" />
+      <workItem from="1671979392243" duration="968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
