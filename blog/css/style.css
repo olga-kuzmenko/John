@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    padding-top: 27px;
+}
+.container{
+    max-width: 1032px;
+    margin: auto;
+}
+.d_flex{
+    display: flex;
+
+}
+.justify_end{
+    justify-content: flex-end;
+}
+.menu{
+    display: flex;
+    list-style: none
+}
+header nav li {
+    margin-left: 33px;
+}
+header nav li a{
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #000000;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.3s;
+}
+header nav li:hover a{
+    transform: rotate(180deg);
+}
+header nav li:first-of-type a{
+    color: #FF6464;
+}
+.blog{
+    padding-top: 106px;
+    padding-bottom: 53px;
+}
+.blog .container{
+    max-width: 681px;
+    margin: auto;
+    padding-bottom: 29px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 32px;
+}
+.blog h1{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 55px;
+}
+.blog article h2{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+    margin-bottom: 16px;
+}
+.blog article h3{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+}
+.blog article span{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #21243D;
+}
+.blog article span:after{
+    content: "";
+    display: inline-block;
+    height: 21px;
+    width: 1px;
+    background-color: #000000;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.blog article p{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+}
+footer{
+    padding-top: 51px;
+    padding-bottom: 54px;
+}
+.social_media{
+    max-width: 858px;
+    margin: auto;
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: 26px;
+}
+footer li{
+    margin-left: 17px;
+    margin-right: 17px;
+}
+footer p{
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #21243D;
+}
