@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="new directory">
-      <change afterPath="$PROJECT_DIR$/css/work_detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/works.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heading_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heading_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/headline_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/item_img4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="page work, page work detail">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +85,7 @@
       <workItem from="1672223598603" duration="126000" />
       <workItem from="1672223726388" duration="32000" />
       <workItem from="1672223785169" duration="188000" />
-      <workItem from="1672223985868" duration="7891000" />
+      <workItem from="1672223985868" duration="8216000" />
     </task>
     <task id="LOCAL-00001" summary="new structure">
       <created>1672223509718</created>
@@ -133,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672224014920</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="page work, page work detail">
+      <created>1672237731640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672237731640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new structure" />
     <MESSAGE value="new directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="new directory" />
+    <MESSAGE value="page work, page work detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="page work, page work detail" />
   </component>
 </project>
