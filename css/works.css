@@ -39,70 +39,80 @@ header nav li a{
 header nav li:hover a{
     transform: rotate(180deg);
 }
-header nav li:first-of-type a{
+header nav li:nth-of-type(2) a{
     color: #FF6464;
 }
-.blog{
-    padding-top: 106px;
-    padding-bottom: 53px;
+.works{
+    padding-top: 90px;
+    padding-bottom: 58px;
 }
-.blog .container{
-    max-width: 681px;
+.works .container{
+    max-width: 682px;
     margin: auto;
-    padding-bottom: 29px;
-    border-bottom: 1px solid #E0E0E0;
-    margin-bottom: 32px;
 }
-.blog .container:last-of-type{
-    margin-bottom: 0;
-}
-.blog h1{
+.works .container h1{
     font-family: 'Heebo';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 44px;
     line-height: 60px;
     color: #21243D;
-    margin-bottom: 55px;
+    margin-bottom: 25px;
 }
-.blog article h2{
+.works .container article{
+    padding-bottom: 47px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 43px;
+    display: flex;
+}
+.works .container article:last-of-type{
+    margin-bottom: 0;
+}
+.img_wrapper{
+    max-width: 246px;
+    border-radius: 6px;
+    width: 100%;
+    margin-right: 18px;
+}
+.img_wrapper img{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.text_wrapper h3{
     font-family: 'Heebo';
     font-style: normal;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 30px;
     line-height: 44px;
     color: #21243D;
-    margin-bottom: 16px;
+    margin-bottom: 2px;
 }
-.blog article h3{
+.text_wrapper a{
+    text-decoration: none;
+}
+.text_wrapper h4{
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 29px;
     color: #8695A4;
-    display: flex;
-    align-items: center;
-    margin-bottom: 6px;
+    margin-bottom: 2px;
 }
-.blog article span{
+.text_wrapper h4 span{
     font-family: 'Heebo';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 29px;
-    color: #21243D;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    background-color: #142850;
+    border-radius: 16px;
+    margin-right: 26px;
+    padding: 0 10px 0 10px;
 }
-.blog article span:after{
-    content: "";
-    display: inline-block;
-    height: 21px;
-    width: 1px;
-    background-color: #000000;
-    margin-right: 20px;
-    margin-left: 20px;
-}
-.blog article p{
+.text_wrapper p{
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;

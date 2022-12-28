@@ -39,76 +39,105 @@ header nav li a{
 header nav li:hover a{
     transform: rotate(180deg);
 }
-header nav li:first-of-type a{
+header nav li:nth-of-type(2) a{
     color: #FF6464;
 }
-.blog{
-    padding-top: 106px;
-    padding-bottom: 53px;
+.headline{
+    padding-top: 78px;
+    padding-bottom: 54px;
 }
-.blog .container{
+.headline .container{
     max-width: 681px;
     margin: auto;
-    padding-bottom: 29px;
-    border-bottom: 1px solid #E0E0E0;
-    margin-bottom: 32px;
 }
-.blog .container:last-of-type{
-    margin-bottom: 0;
-}
-.blog h1{
+.headline h1{
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 700;
-    font-size: 44px;
-    line-height: 60px;
+    font-size: 34px;
+    line-height: 50px;
     color: #21243D;
-    margin-bottom: 55px;
+    padding-bottom: 30px;
 }
-.blog article h2{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 30px;
-    line-height: 44px;
-    color: #21243D;
-    margin-bottom: 16px;
-}
-.blog article h3{
+.headline h3{
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 29px;
-    color: #8695A4;
+    color: #21243D;
+    display: flex;
+    margin-bottom: 23px;
+}
+.headline h3 span{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
     display: flex;
     align-items: center;
-    margin-bottom: 6px;
+    color: #FFFFFF;
+    background-color: #FF7C7C;
+    border-radius: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 17px;
 }
-.blog article span{
-    font-family: 'Heebo';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 29px;
-    color: #21243D;
-}
-.blog article span:after{
-    content: "";
-    display: inline-block;
-    height: 21px;
-    width: 1px;
-    background-color: #000000;
-    margin-right: 20px;
-    margin-left: 20px;
-}
-.blog article p{
+.headline p{
     font-family: 'Heebo';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+    color: #000000;
+    margin-bottom: 46px;
+}
+.headline .img_wrapper{
+    max-width: 681px;
+}
+.img_wrapper img {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.content .container{
+    max-width: 681px;
+    margin: auto;
+    margin-bottom: 27px;
+}
+.content h2{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 60px;
     color: #21243D;
+}
+.content h3{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 60px;
+    color: #21243D;
+}
+.content p{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.img_wrapper{
+    max-width: 681px;
+    padding-bottom: 27px;
+}
+.img_wrapper img {
+    width: 100%;
+    display: block;
+    overflow: hidden;
 }
 footer{
     padding-top: 51px;
