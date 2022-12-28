@@ -3,6 +3,54 @@
   <component name="ChangeListManager">
     <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/images/Linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/images/Vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/images/fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/images/insta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/Ellipse1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/Linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/Vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/insta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/item_img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/item_img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/images/item_img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,19 +80,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/olgakuzmenko/Documents/Hillel/John",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "web-ide.project.structure",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olgakuzmenko/Documents/Hillel/John&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -76,6 +124,11 @@
       <workItem from="1671556070409" duration="2213000" />
       <workItem from="1671646488146" duration="53000" />
       <workItem from="1671979392243" duration="9111000" />
+      <workItem from="1671994198408" duration="516000" />
+      <workItem from="1672222199081" duration="445000" />
+      <workItem from="1672222658432" duration="10000" />
+      <workItem from="1672222706005" duration="15000" />
+      <workItem from="1672222738199" duration="546000" />
     </task>
     <servers />
   </component>
