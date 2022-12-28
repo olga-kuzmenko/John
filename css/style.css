@@ -251,6 +251,9 @@ header nav li:hover a{
     line-height: 44px;
     color: #21243D;
 }
+.text_wrapper a{
+    text-decoration: none;
+}
 .subtitle{
     margin-bottom: 17px;
     display: inline;
