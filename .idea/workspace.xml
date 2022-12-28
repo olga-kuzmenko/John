@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Heebo-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/fonts/Vollkorn-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/images/Linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/images/Vector.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/images/fb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/images/insta.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Heebo-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fonts/Vollkorn-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/Ellipse1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/Linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/Vector.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/fb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/insta.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/item_img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/item_img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/images/item_img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="104ed382-ab9f-486e-a1b1-0d6afc8dd172" name="Changes" comment="new structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +79,16 @@
       <workItem from="1672222658432" duration="10000" />
       <workItem from="1672222706005" duration="15000" />
       <workItem from="1672222738199" duration="546000" />
+      <workItem from="1672223435474" duration="160000" />
     </task>
+    <task id="LOCAL-00001" summary="new structure">
+      <created>1672223509718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672223509718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="new structure" />
   </component>
 </project>
