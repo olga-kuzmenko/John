@@ -49,6 +49,8 @@ header nav li:first-of-type a{
 .blog .container{
     max-width: 681px;
     margin: auto;
+}
+.blog .container article{
     padding-bottom: 29px;
     border-bottom: 1px solid #E0E0E0;
     margin-bottom: 32px;
